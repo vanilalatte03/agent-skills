@@ -7,7 +7,7 @@
     {
       "name": "review-code",
       "source": "./plugins/review-code",
-      "description": "차원별 서브에이전트를 병렬로 돌려 코드/브랜치 변경을 심층 리뷰하는 read-only 스킬."
+      "description": "차원별 서브에이전트 병렬 코드 리뷰 (read-only)."
     }
   ]
 }
