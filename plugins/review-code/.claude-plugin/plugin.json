@@ -1,0 +1,8 @@
+{
+  "name": "review-code",
+  "description": "차원별 서브에이전트를 병렬로 돌려 코드/브랜치 변경을 심층 리뷰하는 read-only 스킬. correctness·security·conventions 기본 활성, 10개 차원 확장 가능.",
+  "version": "0.1.0",
+  "author": {
+    "name": "vanilalatte03"
+  }
+}
